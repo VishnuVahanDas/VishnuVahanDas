@@ -88,7 +88,7 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=its-kumar&theme=tokyonight" alt="its-kumar" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VishnuVahanDas5&show_icons=true&locale=en&layout=compact" alt="vishal20065" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VishnuVahanDas&show_icons=true&locale=en&layout=compact" alt="vishal20065" /></p>
 <!-- If you're using "main" as default branch -->
 ![Metrics](https://github.com/vishnuvahandas/vishnuvahandas/github-metrics.svg)
 
