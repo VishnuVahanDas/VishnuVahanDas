@@ -86,10 +86,8 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=VishnuVahanDas&show_icons=true&locale=en&theme=onedark" alt="VishnuVahanDas" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VishnuVahanDas&theme=tokyonight" alt="VishnuVahanDas" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vishal20065s&theme=tokyonight" alt="VishnuVahanDas" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VishnuVahanDas&show_icons=true&locale=en&layout=compact" alt="VishnuVahanDas" /></p>
-<!-- If you're using "main" as default branch -->
-![Metrics](https://github.com/VishnuVahanDas/VishnuVahanDas/blob/main/github-metrics.svg)
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
