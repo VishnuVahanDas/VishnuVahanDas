@@ -43,7 +43,7 @@ Here are some ideas to get you started:
   <a href="https://www.hackerearth.com/@VishnuVahanDas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/6253936f99716cd30c07055d5d10e9332af37171/src/images/icons/Social/hackerearth.svg" alt="@VishnuVahanDas" height="30" width="40" /></a>
   <a href="https://auth.geeksforgeeks.org/user/VishnuVahanDas/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/6253936f99716cd30c07055d5d10e9332af37171/src/images/icons/Social/geeks-for-geeks.svg" alt="VishnuVahanDas/profile" height="30" width="40" /></a>
 </p>
-<!--
+
 ### Analytics
 
   ![powerbi](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
@@ -59,7 +59,7 @@ Here are some ideas to get you started:
   ![sklearn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
   ![numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
   ![opencv](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
--->
+
 ### Python Frameworks
 
   ![django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
@@ -82,14 +82,14 @@ Here are some ideas to get you started:
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=its-kumar&show_icons=true&locale=en&layout=compact&theme=dark" alt="its-kumar" width=500/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VishnuVahanDas&show_icons=true&locale=en&layout=compact&theme=dark" alt="VishnuVahanDas" width=500/></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=its-kumar&show_icons=true&locale=en&theme=onedark" alt="its-kumar" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=VishnuVahanDas&show_icons=true&locale=en&theme=onedark" alt="VishnuVahanDas" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=its-kumar&theme=tokyonight" alt="its-kumar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VishnuVahanDas&theme=tokyonight" alt="VishnuVahanDas" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VishnuVahanDas&show_icons=true&locale=en&layout=compact" alt="vishal20065" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VishnuVahanDas&show_icons=true&locale=en&layout=compact" alt="VishnuVahanDas" /></p>
 <!-- If you're using "main" as default branch -->
-![Metrics](https://github.com/vishnuvahandas/vishnuvahandas/github-metrics.svg)
+![Metrics](https://github.com/VishnuVahanDas/VishnuVahanDas/blob/main/github-metrics.svg)
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
