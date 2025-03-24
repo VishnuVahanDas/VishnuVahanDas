@@ -88,6 +88,6 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VishnuVahanDas&show_icons=true&locale=en&layout=compact" alt="VishnuVahanDas" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vishal20065&theme=tokyonight" alt="VishnuVahanDas" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VishnuVahanDas&theme=tokyonight" alt="VishnuVahanDas" /></p>
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
